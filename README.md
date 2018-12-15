@@ -1,3 +1,3 @@
 # Programmeerproject1-Dig-Dug
 
-School assignment.
+University assignment 2016.
